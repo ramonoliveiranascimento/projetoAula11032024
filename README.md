@@ -9,3 +9,19 @@
 - git log
 - git push -u origin main
 - git pull
+
+##  Comandos npm
+- npm install -y
+- npm init
+- npx tsconfig.json
+- npm install typescript --dev
+- 
+- 
+- 
+- 
+- usar o prisma como banco 
+- baixar instenção do prisma.
+
+
+## o que te r no banco
+- modelo de msg 
